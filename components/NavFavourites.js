@@ -14,7 +14,7 @@ const data = [
         id: "456",
         icon: "briefcase",
         location: "Work",
-        destination: "Microsoft Kenya",
+        destination: "Andela Kenya",
     },
     {
         id: "789",
